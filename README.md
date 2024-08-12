@@ -15,7 +15,7 @@ Welcome to the Text Editor! This application is built using C# and allows you to
 
 To try out the Text Editor:
 
-1. Download the repository or clone it to your local machine.
+1. Download the `Try Application` or clone respos to your local machine.
 2. Navigate to the folder where the `TextEditor.exe` file is located.
 3. Run `TextEditor.exe` to start the application.
 
