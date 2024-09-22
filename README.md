@@ -11,14 +11,6 @@ Welcome to the Text Editor! This application is built using C# and allows you to
   - When saving XML files, the application preserves certain variables to maintain the last view you saved, ensuring a seamless editing experience when reopening files.
 - **User-Friendly Interface**: A simple and intuitive interface for text editing.
 
----
-
-![FlowChart](https://github.com/RenoTxT/TextEditor/blob/master/flowchartTextEditor.drawio.png?raw=true)
-
----
-
-![Class Diagram](https://github.com/RenoTxT/TextEditor/blob/master/classTextEditor.drawio%20(1).png?raw=true)
-
 ## Getting Started
 
 To try out the Text Editor:
@@ -26,6 +18,13 @@ To try out the Text Editor:
 1. Download folder `Try Application` or clone the repository to your local machine.
 2. Navigate to the folder where the `TextEditor.exe` file is located.
 3. Run `TextEditor.exe` to start the application.
+
+## Flowchart
+![FlowChart](https://github.com/RenoTxT/TextEditor/blob/master/flowchartTextEditor.drawio.png?raw=true)
+
+---
+## Class Diagram
+![Class Diagram](https://github.com/RenoTxT/TextEditor/blob/master/classTextEditor.drawio%20(1).png?raw=true)
 
 ## Upcoming Features
 
