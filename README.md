@@ -2,6 +2,10 @@
 
 Welcome to the Text Editor! This application is built using C# and allows you to easily read and write files in both `.txt` and `.xml` formats.
 
+![Class Diagram](https://github.com/RenoTxT/TextEditor/blob/master/classTextEditor.drawio%20(1).png?raw=true)
+![FlowChart](https://github.com/RenoTxT/TextEditor/blob/master/flowchartTextEditor.drawio.png)
+
+
 ## Features
 
 - **File Reading and Writing**: 
